@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kamera und Video</string>
+    <string name="btn_txt_foto_aufnehmen">FOTO aufnehmen</string>
+    <string name="btn_txt_video_aufnehmen">VIDEO aufnehmen</string>
+</resources>
